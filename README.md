@@ -33,7 +33,6 @@ viii. We do not use a test dataset. We are using the whole training dataset to l
 <br>
 ix. Choose a reasonable number of epochs for training, considering your computational power. <br>
 <br>
-<br>
 x. Use model checkpointing to keep the network weights to determine each time an improvement in loss is observed at the end of the epoch. 
 Find the best set of weights in terms of loss. <br>
 <br>
